@@ -29,4 +29,5 @@ int main()
 		sum += val;
 	cout << "Sum is" << sum << endl;//在调试窗口需要从键盘输入文件结束符，同时按住ctrl 和z，再按Enter
 	return 0;
+	cout << "good" << endl;
 }
