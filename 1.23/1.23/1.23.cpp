@@ -16,9 +16,8 @@ int main()
 			else
 			{
 				cout << currentval <<"   "<< "occurs     " << cnt << "   times" << endl;
-				system("Pause");
 				currentval = val;
-				int cnt = 1;
+				cnt = 1;
 			}
 		}
 	}
